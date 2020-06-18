@@ -1,0 +1,8 @@
+D:\Studies\Net Framework things\OwlClock\OwlClock\obj\Debug\OwlClock.csprojAssemblyReference.cache
+D:\Studies\Net Framework things\OwlClock\OwlClock\obj\Debug\OwlClock.Owlclock.resources
+D:\Studies\Net Framework things\OwlClock\OwlClock\obj\Debug\OwlClock.csproj.GenerateResource.cache
+D:\Studies\Net Framework things\OwlClock\OwlClock\obj\Debug\OwlClock.csproj.CoreCompileInputs.cache
+D:\Studies\Net Framework things\OwlClock\OwlClock\bin\Debug\OwlClock.dll
+D:\Studies\Net Framework things\OwlClock\OwlClock\bin\Debug\OwlClock.pdb
+D:\Studies\Net Framework things\OwlClock\OwlClock\obj\Debug\OwlClock.dll
+D:\Studies\Net Framework things\OwlClock\OwlClock\obj\Debug\OwlClock.pdb
